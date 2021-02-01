@@ -18,3 +18,5 @@ content:
 - Avoid NPE
 - The (un)-ordered sequence
 - Out of bounds_
+- Only true or false
+- Safe converting
